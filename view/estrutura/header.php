@@ -25,10 +25,10 @@
                         <a class="nav-link" href="quartos.php">Quartos</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Reservas</a>
+                        <a class="nav-link" href="reservas.php">Reservas</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Contato</a>
+                        <a class="nav-link" href="contato.php">Contato</a>
                     </li>
                 </ul>
             </div>
